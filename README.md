@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larinax999&label=Profile%20views&color=0e75b6&style=flat" alt="larinax999" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larinax999&show_icons=true&locale=en" alt="larinax999" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larinax999&show_icons=true&locale=en&theme=synthwave" alt="larinax999" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&theme=synthwave" alt="larinax999" /></p>
 
