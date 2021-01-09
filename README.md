@@ -1,8 +1,5 @@
 <h3 align="center">Hello world :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=larinax999&label=Profile%20views&color=0e75b6&style=flat" alt="larinax999" /> </p>
-
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="larinax999" /></p>
 
 <h3 align="center">Connect with me</h3>
