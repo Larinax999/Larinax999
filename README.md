@@ -4,7 +4,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larinax999&show_icons=true&locale=en" alt="larinax999" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larinax999&show_icons=true&locale=en&theme=Gradient" alt="larinax999" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&theme=synthwave" alt="larinax999" /></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
