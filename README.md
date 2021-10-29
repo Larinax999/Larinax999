@@ -1,9 +1,24 @@
 <h3 align="center">Hi</h3>
+```python
+class larinax999:
+   def __init__(self):
+      self.name = "larina"
+      self.age = None
+      self.gender = None
+      self.human = True
+      self.single = True
+      self.real_languages = ["thai","en"]
+      self.main_languages = ["python","javascript","lua"]
+      self.learning_languages = ["golang","c#","rust"]
+      self.not_languages = ["html"]
+      self.contact = "https://linktr.ee/larinax999"
+```
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="larinax999" />
-<img align="center" src="https://discord.c99.nl/widget/theme-3/500346652360572944.png"><br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+   <img align="center" src="https://discord.c99.nl/widget/theme-3/500346652360572944.png"><br>
 </p>
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=larinax999&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="larinax999" /></p>-->
+
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=larinax999&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="larinax999" /></p>
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
@@ -69,4 +84,4 @@
   <a href="https://golang.org" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
   </a>
-</p>
+</p>-->
