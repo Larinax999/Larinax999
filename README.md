@@ -4,7 +4,7 @@
 class larinax999:
    def __init__(self):
       self.name = "larina"
-      self.age = None
+      self.age = 14
       self.gender = None
       self.human = True
       self.single = True
