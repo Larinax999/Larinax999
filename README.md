@@ -2,7 +2,7 @@
 
 ```python
 class larinax999:
-   def __init__(self):
+   def __init__(self)->None:
       self.name = "larina"
       self.age = 14
       self.gender = None
@@ -10,7 +10,7 @@ class larinax999:
       self.single = True
       self.real_languages = ["thai","en"]
       self.main_languages = ["python","javascript","golang"]
-      self.learning_languages = ["lua","c#","rust"]
+      self.learning_languages = ["lua","c#"] # ,"rust"
       self.not_languages = ["html"]
       self.contact = "https://linktr.ee/larinax999"
 ```
