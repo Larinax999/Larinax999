@@ -4,15 +4,17 @@
 class larinax999:
    def __init__(self)->None:
       self.name = "larina"
-      self.age = 14
+      self.age = (__import__("datetime").date.today().year-2007)
       self.gender = None
       self.human = True
       self.single = True
       self.real_languages = ["thai","en"]
-      self.main_languages = ["python","javascript","golang","lua"]
-      self.learning_languages = ["c++"] # "lua","c#","rust"
-      self.not_languages = ["html"]
+      self.main_languages = ["python","javascript","golang","lua"] # ,"typescript"
+      self.learning_languages = ["c","c++"] # "lua","c#","rust"
+      # self.not_languages = ["html"]
       self.contact = "https://linktr.ee/larinax999"
+
+larinax999()
 ```
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
