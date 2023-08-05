@@ -18,7 +18,7 @@ larinax999()
 ```
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-   <img align="center" src="https://discord.c99.nl/widget/theme-3/979641605969547284.png"><br> <!--L discord unban me 500346652360572944 872497974431862854 955587690856849478 again and again-->
+   <!--<img align="center" src="https://discord.c99.nl/widget/theme-3/979641605969547284.png"><br> L discord unban me 500346652360572944 872497974431862854 955587690856849478 again and again-->
 </p>
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=larinax999&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="larinax999" /></p>
