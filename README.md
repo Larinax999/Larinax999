@@ -12,7 +12,6 @@ class larinax999:
       self.main_languages = ["python","javascript","golang","lua"] # ,"typescript"
       self.learning_languages = ["c++","rust"] # "c","c#"
       # self.not_languages = ["html"]
-      # self.contact = "https://linktr.ee/larinax999" # Hello
 
 larinax999()
 ```
